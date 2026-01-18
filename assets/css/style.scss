@@ -2,33 +2,32 @@
 ---
 @import "{{ site.theme }}";
 
-// Configuración de colores y fuente
 body {
-  background-color: #ffffff; // Fondo blanco puro
-  color: #000000;           // Texto negro
-  font-family: "Courier New", Courier, monospace; // Tipografía de máquina de escribir
+    background-color: #ffffff;
+    color: #000000;
+    /* Esta combinación da el look exacto de la imagen */
+    font-family: "Lucida Sans Typewriter", "Lucida Console", "Monaco", "Andale Mono", monospace;
+    font-size: 13px; /* Tamaño pequeño, típico de ese sitio */
+    padding: 50px;
+    line-height: 1.4;
 }
 
-header, section, footer {
-  background-color: #ffffff;
+/* Para los títulos subrayados como "latest" o "UPCOMING PERFORMANCES" */
+h1, h2, h3 {
+    font-size: 13px;
+    font-weight: normal;
+    text-transform: uppercase;
+    text-decoration: underline;
+    margin-bottom: 20px;
 }
 
 a {
-  color: #000000;
-  text-decoration: underline;
-  &:hover {
+    color: #0000ff; /* El azul clásico de link que se ve en tu captura */
+    text-decoration: underline;
+}
+
+a:hover {
     background-color: #000000;
     color: #ffffff;
     text-decoration: none;
-  }
 }
-
-h1, h2, h3, h4 {
-  color: #000000;
-  font-weight: bold;
-  text-transform: uppercase;
-}
-
-// Quitar bordes o sombras innecesarias
-header { border-bottom: 2px solid #000; padding-bottom: 20px; }
-wrapper { box-shadow: none; max-width: 700px; }
