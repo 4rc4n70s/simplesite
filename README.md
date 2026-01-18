@@ -1,20 +1,23 @@
-# JUAN PEREZ _ ARCHIVO
+---
+layout: default
+title: MI SITIO WEB
+---
+
+# MI NOMBRE / PROYECTOS
+
+Este es un sitio de ancho completo, sin barras laterales, siguiendo la estética de jaar.site.
 
 ---
 
-[PROYECTOS]  
-[INFORMACIÓN]  
-[CONTACTO]
+### SECCIONES
+- [TRABAJOS](#)
+- [INFO](#)
+- [CONTACTO](#)
 
 ---
 
-## 01. PROYECTO ALPHA
-Descripción breve del proyecto en una sola línea. 
-> Ver más...
+## PROYECTO 01
+Descripción del proyecto que ahora ocupa todo el ancho disponible de la pantalla de manera limpia.
 
-## 02. PROYECTO BETA
-Minimalismo extremo aplicado a la web.
-> Ver más...
-
----
-© 2026 / Hecho en Markdown
+## PROYECTO 02
+Más contenido aquí...
