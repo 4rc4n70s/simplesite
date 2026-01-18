@@ -1,6 +1,6 @@
----
+----
 layout: default
----
+----
 
 # DIRECTORIO_PRINCIPAL
 
