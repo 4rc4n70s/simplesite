@@ -1,23 +1,29 @@
 ---
 layout: default
-title: MI SITIO WEB
+title: MI ARCHIVO PERSONAL
 ---
 
-# MI NOMBRE / PROYECTOS
+# DIRECTORIO_PRINCIPAL
 
-Este es un sitio de ancho completo, sin barras laterales, siguiendo la estética de jaar.site.
-
----
-
-### SECCIONES
-- [TRABAJOS](#)
-- [INFO](#)
-- [CONTACTO](#)
+[01] PROYECTOS  
+[02] ARCHIVO FOTOGRÁFICO  
+[03] SOBRE MÍ  
+[04] CONTACTO  
 
 ---
 
-## PROYECTO 01
-Descripción del proyecto que ahora ocupa todo el ancho disponible de la pantalla de manera limpia.
+## 01. PROYECTOS RECIENTES
 
-## PROYECTO 02
-Más contenido aquí...
+* **SITIO_WEB_01**: Desarrollo de interfaz minimalista.
+* **SITIO_WEB_02**: Implementación de sistema de archivos.
+
+---
+
+## CONTACTO
+
+E-MAIL: contacto@tusitio.com  
+INSTAGRAM: @usuario  
+TWITTER: @usuario  
+
+---
+_ULTIMA ACTUALIZACIÓN: 2026_
