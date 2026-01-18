@@ -1,22 +1,20 @@
-# MI_ARCHIVO_V.01
-
-> Estado: Online
-> Ubicación: [Tu Ciudad]
+# JUAN PEREZ _ ARCHIVO
 
 ---
 
-### NAVEGACIÓN
-- [01. TRABAJOS](#)
-- [02. SOBRE MÍ](#)
-- [03. CONTACTO](mailto:tuemail@ejemplo.com)
+[PROYECTOS]  
+[INFORMACIÓN]  
+[CONTACTO]
 
 ---
 
-### ÚLTIMAS ENTRADAS
-Este es un espacio donde puedes listar tus proyectos. El estilo "Hacker" de GitHub Pages le dará automáticamente el fondo oscuro y la fuente monoespaciada tipo consola que buscas.
+## 01. PROYECTO ALPHA
+Descripción breve del proyecto en una sola línea. 
+> Ver más...
 
-- **Proyecto A:** Una breve descripción técnica.
-- **Proyecto B:** Algo de diseño minimalista.
+## 02. PROYECTO BETA
+Minimalismo extremo aplicado a la web.
+> Ver más...
 
 ---
-[Volver al inicio](#)
+© 2026 / Hecho en Markdown
