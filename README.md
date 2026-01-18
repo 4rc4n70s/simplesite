@@ -1,7 +1,6 @@
-----
+---
 layout: default
-title: MI ARCHIVO PERSONAL
-----
+---
 
 # DIRECTORIO_PRINCIPAL
 
