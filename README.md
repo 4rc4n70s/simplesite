@@ -1,7 +1,3 @@
-----
-layout: default
-----
-
 # DATACHEF
 
 [01] QUIENES SOMOS  
